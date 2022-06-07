@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE productos SYSTEM "Productos.dtd">
+<productos>
+    <producto>
+        <raton>
+            <codigo>24123</codigo>
+            <nombre> raton </nombre>
+            <descripcion> raton inalambrico</descripcion>
+        </raton>
+        <teclado>
+            <codigo>3424234</codigo>
+            <nombre> Teclado </nombre>
+            <descripcion> Teclado </descripcion>
+        </teclado>
+        <monitor>
+            <codigo>234324</codigo>
+            <nombre>monitor</nombre>
+            <descripcion> monitor</descripcion>
+        </monitor>
+    </producto>
+</productos>
